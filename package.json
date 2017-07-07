@@ -1,0 +1,32 @@
+{
+  "name": "zadanie_9_6",
+  "version": "1.0.0",
+  "description": "Zadanie 9.6 - Eventy",
+  "main": "gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krzysztofmarkowski/zadanie_9_6.git"
+  },
+  "keywords": [
+    "zadanie",
+    "9.6",
+    "kodilla",
+    "eventy"
+  ],
+  "author": "Krzysztof Markowski",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krzysztofmarkowski/zadanie_9_6/issues"
+  },
+  "homepage": "https://github.com/krzysztofmarkowski/zadanie_9_6#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-imagemin": "^2.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
